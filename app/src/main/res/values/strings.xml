@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lista">Pokaż aktywności sportowe</string>
+    <string name="zaloguj">Pokaż stronę logowania</string>
+    <string name="dodaj">Dodaj aktywność sportową</string>
+    <string name="loguj"><h1>loguj</h1> loguj</string>
+    <string name="hintlogin"><h1>Podaj login</h1></string>
+    <string name="hintPassword"><h1>Podaj hasło</h1></string>
+    <string-array name="items">
+        <item>bieganie</item>
+        <item>piłka ręczna</item>
+        <item>szachy</item>
+        <item>bieganie</item>
+        <item>basen</item>
+        <item>siłka</item>
+        <item>marsz</item>
+        <item>kręgle</item>
+        <item>tenis</item>
+        <item>siatkówka</item>
+    </string-array>
+</resources>
